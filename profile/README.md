@@ -29,14 +29,14 @@ Watch the video on youtube.
 * Stripe Billing Integration
 * Ability to Migrate away from Stripe Billing
 * Invoice payment type for Enterprise customers
+* Per Seat billing
+* Webhooks to listen for billing events
 
 ## RoadMap
 
-* Webhooks to listen for billing events
 * Tax Software Integrations
 * Better Reports
 * Slack/etc integration for internal communications
-* Per Seat billing
 * Metric and Usage Based Billing
 * [And you can add more here](https://github.com/billabear/billabear/discussions/categories/ideas)
 
