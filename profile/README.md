@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="450px" src="https://ha-static-data.s3.eu-central-1.amazonaws.com/github-readme-logo.png">
+  <img width="450px" src="https://ha-static-data.s3.eu-central-1.amazonaws.com/github-readme-logo-v2.png">
 </p>
 BillaBear is a standalone Subscription Management and Billing System that integrates with Stripe. It provides a REST API allowing you to integrate it easily.
 
