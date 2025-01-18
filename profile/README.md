@@ -31,13 +31,7 @@ Watch the video on youtube.
 * Invoice payment type for Enterprise customers
 * Per Seat billing
 * Webhooks to listen for billing events
-
-## RoadMap
-
-* Tax Software Integrations
-* Better Reports
-* Slack/etc integration for internal communications
-* Metric and Usage Based Billing
-* [And you can add more here](https://github.com/billabear/billabear/discussions/categories/ideas)
+* Workflows
+* Integrations with Slack, Freshbooks, Xero, Mailchimp, EmailOctopus, etc
 
 
